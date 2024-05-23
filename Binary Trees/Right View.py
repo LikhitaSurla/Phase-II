@@ -5,7 +5,7 @@ class Box:
         self.right = None
 
 
-#Function to return a list containing elements of left view of the binary tree.
+#Function to return a list containing elements of right view of the binary tree.
 def RightView(root):
     
     # code here
