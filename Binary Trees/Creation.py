@@ -24,7 +24,7 @@ def printPostOrderTraversal(root):
     printPostOrderTraversal(root.right)
     print(root.data,end=" ")
     
-obj1=Box(50)
+obj1=Box(10)
 obj2=Box(40)
 obj3=Box(30)
 obj4=Box(20)
